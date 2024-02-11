@@ -1,0 +1,47 @@
+body {
+    font-size: 15pt;
+    background-color: #8ECAE6;
+}
+div{ 
+      height: 820px;
+      width: 415px;
+      background-color: #023047ee;
+      border-radius: 5px;
+      padding: 2px;
+      display: flex ;
+      flex-direction: column;
+      
+   }
+   
+   #title{
+     text-align: center;
+     color: #F1FAEE; 
+     font-family:monospace;
+      margin-top: 2px;
+   }
+   
+   #description {
+     font-family: verdana;
+     text-align:center;
+     color: #F2DC91;
+   }
+   
+   form { font-weight: bold;
+     color:white;
+   
+   }
+ input{height:20px;
+   width :400px;
+ }
+   
+   #html{top:100px;}
+   
+   textarea {width:400px;
+     height: 60px;
+   }
+  
+  #Submit {margin-left: 150px;
+    height: 40px;
+    width : 100px;
+    font-size: 20px;
+  }
